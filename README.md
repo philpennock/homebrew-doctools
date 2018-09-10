@@ -18,8 +18,10 @@ Anything which catches my fancy but is too obscure for Homebrew, which I
 suspect will involve dealing with miscellaneous protocols in various ways.
 
 * Exim tools:
-  +  `sdop`: Typesetting tool to convert a subset of DocBook XML to PostScript
-  +  `xfpt`: Convert xfpt markup into DocBook XML
+  + `sdop`: Typesetting tool to convert a subset of DocBook XML to PostScript
+  + `xfpt`: Convert xfpt markup into DocBook XML
+  + You will also need `ghostscript` from homebrew-core, for the `ps2pdf`
+    command
 
 
 How do I install these formulae?
